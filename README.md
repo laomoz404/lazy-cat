@@ -1,6 +1,6 @@
 # 🐱 懒惰猫 (LazyCat) - 语音控制浏览器扩展
 
-```markdown
+
 # 🐱 懒惰猫 (LazyCat) - 语音控制浏览器扩展
 
 ![扩展图标](public/icon.jpg)
@@ -47,7 +47,6 @@ graph TD
     B --> C[命令解析引擎]
     C --> D[浏览器操作执行]
     D --> E[结果反馈]
-```
 
 ### 核心技术
 - Web Speech API实现语音识别
