@@ -1,0 +1,43 @@
+{
+    "author":"CHESSUNYAN",
+    "manifest_version": 3,
+    "name": "懒惰猫",
+    "version": "1.0",
+    "description": "通过语音控制浏览器操作",
+    "icons": {
+        "128": "/public/icon.jpg"
+    },
+    "permissions": [
+        "scripting",
+        "tabs",
+        "activeTab",
+        "storage",
+        "audioCapture",
+        "tts",
+        "sidePanel"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "side_panel":{
+        "default_path":"/sidepanel/sidepanel.html",
+        "default_title":"懒惰猫",
+        "default_icon": {
+            "32": "/public/icon.jpg"
+        }
+    },
+    "action": {
+        "default_title": "懒惰猫",
+        "default_icon": {
+            "32": "/public/icon.jpg"
+        }
+    },
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'",
+        "sandbox": "sandbox allow-scripts; script-src 'self'"
+      }
+}
