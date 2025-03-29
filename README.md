@@ -41,7 +41,6 @@
 
 ## ⚙️ 技术架构
 
-```mermaid
 graph TD
     A[语音输入] --> B[Web Speech API]
     B --> C[命令解析引擎]
@@ -55,7 +54,6 @@ graph TD
 
 ## 📦 项目结构
 
-```
 lazy-cat-extension/
 ├── public/                 # 静态资源
 │   └── icon.jpg            # 扩展图标
