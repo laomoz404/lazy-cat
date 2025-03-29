@@ -11,7 +11,7 @@
 
 [![BiliBili](https://img.shields.io/badge/BiliBili-Add--ons-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
 
-[![BiliBili](https://img.shields.io/github/license/:laomoz404/:lazy-cat)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
+[![BiliBili](https://img.shields.io/github/license/:laomoz404/:lazy-cat)](https://github.com/laomoz404/lazy-cat)
 
 ## 🌟 功能特性
 
