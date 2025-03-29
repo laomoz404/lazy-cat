@@ -12,6 +12,8 @@
 ![GitHub License](https://img.shields.io/github/license/laomoz404/lazycat)
 ![GitHub top language](https://img.shields.io/github/languages/top/laomoz404/lazycat)
 ![GitHub contributors](https://img.shields.io/github/contributors/laomoz404/lazycat)
+![GitHub Repo stars](https://img.shields.io/github/stars/laomoz404/lazycat)
+
 
 ## 🌟 功能特性
 
