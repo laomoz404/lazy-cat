@@ -13,6 +13,9 @@
 
 ![GitHub License](https://img.shields.io/github/license/:laomoz404/:lazycat)
 
+![GitHub top language](https://img.shields.io/github/languages/top/:laomoz404/:lazy)
+
+
 ## 🌟 功能特性
 
 ### 🎙️ 语音控制
