@@ -9,6 +9,7 @@
 
 [![Edge扩展商店](https://img.shields.io/badge/Edge-Add--ons-blue)](https://microsoftedge.microsoft.com/addons)
 [![BiliBili](https://img.shields.io/badge/BiliBili-Add--ons-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ## 🌟 功能特性
 
