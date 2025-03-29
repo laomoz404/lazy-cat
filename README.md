@@ -7,9 +7,9 @@
 
 "懒惰猫"是一款智能语音控制浏览器扩展，让您通过中文语音命令轻松操控Microsoft Edge浏览器。所有语音处理均在本地完成，保障您的隐私安全。
 
-[![Edge扩展商店](https://img.shields.io/badge/Edge-Add--ons-blue)](https://microsoftedge.microsoft.com/addons)
+[![Edge扩展商店](https://img.shields.io/badge/Edge-Microsoft--addons-blue)](https://microsoftedge.microsoft.com/addons)
 
-[![BiliBili](https://img.shields.io/badge/BiliBili-Add--ons-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
+[![BiliBili](https://img.shields.io/badge/BiliBili-爱吃番茄炒蛋的莫佬-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
 
 ![GitHub License](https://img.shields.io/github/license/laomoz404/lazycat)
 
