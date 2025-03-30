@@ -1,6 +1,6 @@
 # 🐱 懒惰猫 (LazyCat) - 语音控制浏览器扩展
 
-![Swiper](https://bu.dusays.com/2025/03/30/67e89691663ad.gif)
+![Swiper](https://bu.dusays.com/2025/03/30/67e89cbdcaa2c.gif)
 
 "懒惰猫"是一款智能语音控制浏览器扩展，让您通过中文语音命令轻松操控Microsoft Edge浏览器。所有语音处理均在本地完成，保障您的隐私安全。
 
