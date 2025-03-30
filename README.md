@@ -31,6 +31,8 @@
 
 ## 🚀 快速开始
 
+![Study](https://bu.dusays.com/2025/03/30/67e8dfb6716f8.gif)
+
 ### 安装要求
 - Microsoft Edge v89+ (Chromium内核)
 - 麦克风设备
