@@ -7,11 +7,9 @@
 [![Edge扩展商店](https://img.shields.io/badge/Edge-微软扩展商店-green)](https://microsoftedge.microsoft.com/addons)
 [![稀土掘金](https://img.shields.io/badge/稀土-CHESSUNYAN-blue)](https://juejin.cn/user/2461172964265243)
 [![BiliBili](https://img.shields.io/badge/BiliBili-爱吃番茄炒蛋的莫佬-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
+![js](https://img.shields.io/badge/开发语言-javascript-blue?logo=javascript)
 ![GitHub top language](https://img.shields.io/github/languages/top/laomoz404/lazycat)
-![GitHub contributors](https://img.shields.io/github/contributors/laomoz404/lazycat)
-![GitHub Release](https://img.shields.io/github/v/release/laomoz404/lazycat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/laomoz404/lazycat)
-
 
 ## 🌟 功能特性
 
@@ -84,7 +82,7 @@ lazy-cat-extension/
 ### 构建步骤
 1. 克隆仓库
    ```bash
-   git clone https://github.com/yourrepo/lazy-cat-extension.git
+   git clone https://github.com/laomoz404/lazycat-extension.git
    ```
 2. 在Edge浏览器中加载解压的扩展
    - 打开 `edge://extensions`
@@ -103,9 +101,6 @@ lazy-cat-extension/
 2. 新功能附带测试用例
 3. 更新相关文档
 
-## 📄 许可证
-
-MIT License © 2025 CHESSUNYAN
 
 ---
 
