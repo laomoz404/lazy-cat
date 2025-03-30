@@ -82,12 +82,13 @@ lazy-cat-extension/
 ### 构建步骤
 1. 克隆仓库
    ```bash
-   git clone https://github.com/laomoz404/lazycat-extension.git
+   git clone https://github.com/laomoz404/lazycat.git
    ```
 2. 在Edge浏览器中加载解压的扩展
    - 打开 `edge://extensions`
    - 启用"开发者模式"
    - 点击"加载解压缩的扩展"
+   - 右键扩展权限，允许扩展使用麦克风
 
 ### 测试建议
 - 测试不同网站上的兼容性
