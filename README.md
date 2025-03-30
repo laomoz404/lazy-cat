@@ -6,7 +6,7 @@
 
 [![Edge扩展商店](https://img.shields.io/badge/Edge-微软扩展商店-green)](https://microsoftedge.microsoft.com/addons)
 [![稀土掘金](https://img.shields.io/badge/稀土-CHESSUNYAN-blue)](https://juejin.cn/user/2461172964265243)
-[![BiliBili](https://img.shields.io/badge/BiliBili-爱吃番茄炒蛋的莫佬-pink)](https://space.bilibili.com/41338524?spm_id_from=333.1007.0.0)
+[![BiliBili](https://img.shields.io/badge/BiliBili-ChessunYan开心盐-pink)](https://space.bilibili.com/3493257422047481)
 ![js](https://img.shields.io/badge/开发语言-javascript-blue?logo=javascript)
 ![GitHub top language](https://img.shields.io/github/languages/top/laomoz404/lazycat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/laomoz404/lazycat)
@@ -18,7 +18,7 @@
 - 支持自然语言表达
 - 快速响应(<300ms)
 
-### 🛠️ 主要功能
+### 🛠️ 主要功能(后续支持自定义指令)
 - **导航控制**："打开B站"、"访问知乎"
 - **页面操作**："刷新页面"、"关闭标签页"
 - **滚动控制**："向下滚动"、"滚动到底部"
@@ -37,8 +37,8 @@
 - 网络连接(仅用于扩展更新)
 
 ### 使用步骤
-1. 点击浏览器工具栏中的懒惰猫图标
-2. 点击"开始聆听"或使用快捷键(默认为Ctrl+Shift+L)
+1. 点击浏览器工具栏中的懒惰猫图标，启动状态为ON，默认OFF
+2. 点击侧边栏"开始聆听"或使用快捷键(默认为Ctrl+Shift+L)
 3. 说出您的指令，如："打开百度"
 
 ## ⚙️ 技术架构
